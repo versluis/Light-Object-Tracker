@@ -1,6 +1,6 @@
 # Light Object Tracker
 
-Unreal Engine project demonstraing how we can track and object with a spotlight.
+Unreal Engine project demonstraing how we can track and object with a spotlight.<br/>
 ![](https://github.com/versluis/Light-Object-Tracker/blob/accfad8a8d1e7e69a6be3baecf78e909f8271b78/Content/Track%20Light%20wide.gif)
 
 ## Usage
